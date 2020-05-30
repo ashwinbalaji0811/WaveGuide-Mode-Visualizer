@@ -9,4 +9,4 @@ If you are using Conda environment for python, then execute this in Anaconda Pro
 If you are using Python Natively, use pip package manager: `pip install mayavi`
 
 
-> Watch the Demo in Vimeo [here](https://vimeo.com/user116718910/review/424267794/e4ac3e1098)
+> Watch the Demo in Vimeo [here](https://vimeo.com/424267794)
