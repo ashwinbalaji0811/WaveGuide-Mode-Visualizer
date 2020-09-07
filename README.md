@@ -12,4 +12,4 @@ If you are using Python Natively, use pip package manager: `pip install mayavi`
 
 > Watch the Demo in Vimeo [here](https://vimeo.com/424267794)
 
->Try it out in Binder [here](https://mybinder.org/v2/gh/ashwinbalaji0811/WaveGuide-Mode-Visualizer.git/master)
+Try it out in Binder [here](https://mybinder.org/v2/gh/ashwinbalaji0811/WaveGuide-Mode-Visualizer.git/master)
